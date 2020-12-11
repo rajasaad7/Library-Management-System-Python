@@ -1,0 +1,6 @@
+Harry Potter,Jk Rowling,30,$2
+Start With Why,Simon Sinek,18,$1.5
+Programming With Python,John Smith,25,$1.5
+40 Rules of Love, Elif Shafaq,0,$3
+
+hamelt,shahkspear,5,$10
